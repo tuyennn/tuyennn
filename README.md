@@ -7,7 +7,7 @@ I am Tuyen Nguyen, an Adobe Certified Master, Magento/Adobe Commerce Developer, 
 [<img src="./images/badges/adobe_commerce_master_badge.png" width="80" height="80">](https://www.credly.com/badges/1d450755-43de-4e43-99ad-7836bc68cc74)
 --------------------------
 ### Stats
-<div align="center">
+<div align="left">
   <a href="https://github.com/tuyennn">
     <img align="center" width="auto" height="165" src="https://github-readme-stats.vercel.app/api?username=tuyennn&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/tuyennn" />
   </a>
