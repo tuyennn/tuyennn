@@ -4,7 +4,7 @@ I am Tuyen Nguyen, an Adobe Certified Master, Magento/Adobe Commerce Developer, 
 
 --------------------------
 ### Badges
-[<img src="./images/badges/adobe_commerce_master_badge.png" width="80" height="80">](https://certification.adobe.com/credential/verify/89bc2536-283f-4b98-b743-5d35d8df14d6/)
+[<img src="./images/badges/adobe_commerce_master_badge.png" width="80" height="80">](https://certification.adobe.com/credential/verify/89bc2536-283f-4b98-b743-5d35d8df14d6)
 --------------------------
 ### Stats
 <div align="left">
